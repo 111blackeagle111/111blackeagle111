@@ -1,4 +1,4 @@
-# Andrea M · 111blackeagle111
+# Andrea M
 
 Lavoro su infrastrutture Linux e sperimento con l’AI locale. Pubblico progetti, benchmark e casi di debug con le verifiche che ho fatto per capire cosa funzionava e dove si rompeva.
 
